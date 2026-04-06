@@ -1,6 +1,4 @@
-import { useState } from "react";
 import { Link, useLocation } from "react-router-dom";
-import { Menu, X, Brain } from "lucide-react";
 
 const links = [
   { to: "/", label: "Home" },
@@ -13,63 +11,59 @@ const links = [
 ];
 
 const Navbar = () => {
-  const [open, setOpen] = useState(false);
   const location = useLocation();
 
   return (
-    <nav className="sticky top-0 z-50 bg-card/80 backdrop-blur-lg border-b border-border">
-      <div className="container mx-auto flex items-center justify-between py-3 px-4">
-        <Link to="/" className="flex items-center gap-2 group">
-          <div className="w-10 h-10 rounded-xl bg-primary flex items-center justify-center group-hover:scale-110 transition-transform">
-            <Brain className="text-primary-foreground" size={22} />
+    <nav className="sticky top-0 z-50 bg-background/80 backdrop-blur-2xl border-b border-border shadow-sm">
+      {/* Navigation Bar (Marquee) */}
+      <div className="bg-background/40 backdrop-blur-md overflow-hidden relative group h-14 flex items-center">
+        <div className="flex whitespace-nowrap animate-marquee w-max py-2 group-hover:[animation-play-state:paused] will-change-transform">
+          {/* Main Set */}
+          <div className="flex items-center gap-6 px-4">
+            {[...links, ...links].map((l, i) => {
+              const bgColors = [
+                "bg-pink-100 text-pink-900 border-pink-200",
+                "bg-purple-100 text-purple-900 border-purple-200",
+                "bg-blue-100 text-blue-900 border-blue-200",
+                "bg-yellow-100 text-yellow-900 border-yellow-200"
+              ];
+              const bgClass = bgColors[i % 4];
+              const isActive = location.pathname === l.to;
+              return (
+                <Link 
+                  key={`set1-${i}`} 
+                  to={l.to} 
+                  className={`text-[13px] font-mono font-bold px-4 py-1.5 rounded-full border transition-transform duration-200 cursor-pointer shadow-sm ${bgClass} ${isActive ? "ring-2 ring-foreground" : "hover:scale-105"}`}
+                >
+                  {l.label}
+                </Link>
+              );
+            })}
           </div>
-          <span className="text-xl font-heading font-bold gradient-text">Buildmind</span>
-        </Link>
-
-        {/* Desktop */}
-        <div className="hidden md:flex items-center gap-1">
-          {links.map((l) => (
-            <Link
-              key={l.to}
-              to={l.to}
-              className={`px-3 py-2 rounded-lg text-sm font-semibold transition-colors ${
-                location.pathname === l.to
-                  ? "bg-primary/10 text-primary"
-                  : "text-muted-foreground hover:text-foreground hover:bg-muted"
-              }`}
-            >
-              {l.label}
-            </Link>
-          ))}
+          {/* Duplicate Set for Seamless Loop */}
+          <div className="flex items-center gap-6 px-4" aria-hidden="true">
+            {[...links, ...links].map((l, i) => {
+              const bgColors = [
+                "bg-pink-100 text-pink-900 border-pink-200",
+                "bg-purple-100 text-purple-900 border-purple-200",
+                "bg-blue-100 text-blue-900 border-blue-200",
+                "bg-yellow-100 text-yellow-900 border-yellow-200"
+              ];
+              const bgClass = bgColors[i % 4];
+              const isActive = location.pathname === l.to;
+              return (
+                <Link 
+                  key={`set2-${i}`} 
+                  to={l.to} 
+                  className={`text-[13px] font-mono font-bold px-4 py-1.5 rounded-full border transition-transform duration-200 cursor-pointer shadow-sm ${bgClass} ${isActive ? "ring-2 ring-foreground" : "hover:scale-105"}`}
+                >
+                  {l.label}
+                </Link>
+              );
+            })}
+          </div>
         </div>
-
-        {/* Mobile toggle */}
-        <button className="md:hidden p-2 rounded-lg hover:bg-muted" onClick={() => setOpen(!open)}>
-          {open ? <X size={24} /> : <Menu size={24} />}
-        </button>
       </div>
-
-      {/* Mobile menu */}
-      {open && (
-        <div className="md:hidden border-t border-border bg-card animate-fade-in">
-          <div className="flex flex-col p-4 gap-1">
-            {links.map((l) => (
-              <Link
-                key={l.to}
-                to={l.to}
-                onClick={() => setOpen(false)}
-                className={`px-4 py-3 rounded-lg font-semibold transition-colors ${
-                  location.pathname === l.to
-                    ? "bg-primary/10 text-primary"
-                    : "text-muted-foreground hover:text-foreground hover:bg-muted"
-                }`}
-              >
-                {l.label}
-              </Link>
-            ))}
-          </div>
-        </div>
-      )}
     </nav>
   );
 };

@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "title": "AI Can Now Help Doctors Find Diseases Faster",
+    "preview": "New AI tools are helping doctors look at X-rays and scans to spot problems quicker than ever before!",
+    "full_article": [
+      "Technology is changing medicine! Doctors spend years learning how to look at X-rays to find broken bones or hidden sickness. But now, Artificial Intelligence is acting like a super-powered assistant.",
+      "By looking at millions of pictures of healthy and sick patients, an AI can highlight a tiny spot on an X-ray that a human doctor might accidentally miss. It doesn't replace the doctor; instead, it acts like a smart magnifying glass.",
+      "Experts say that using AI in hospitals will help doctors start treating patients much faster, saving thousands of lives!"
+    ],
+    "date": "April 2026",
+    "source": "HealthTech Daily",
+    "color": "bg-primary/20",
+    "textColor": "text-primary-foreground"
+  },
+  {
+    "id": 2,
+    "title": "Robot Dog Learns to Play Fetch",
+    "preview": "Scientists built a robot dog that uses AI to learn how to play fetch — and it's getting really good at it!",
+    "full_article": [
+      "Meet Sparky-4, the robotic dog that doesn't just walk—it plays! Engineers at a top university have created an AI model that lets a metallic dog learn how to fetch a ball just like a real puppy.",
+      "Instead of coding specific rules on how to run, the scientists used Reinforcement Learning. They simply told the robot: 'Bring the ball back, and you get a digital point.'",
+      "After a few days of awkwardly falling over, the robot figured out the optimal way to sprint, grasp the ball safely in its metal jaws, and trot back to its owner. It’s a huge step for robots learning to interact with the physical world."
+    ],
+    "date": "March 2026",
+    "source": "Robotics Now",
+    "color": "bg-secondary/20",
+    "textColor": "text-secondary-foreground"
+  },
+  {
+    "id": 3,
+    "title": "Kids Are Learning to Code AI at School",
+    "preview": "Schools around the world are starting to teach children how to build their own AI projects. How cool is that?",
+    "full_article": [
+      "Middle schools are getting a massive tech upgrade! Instead of just learning how to type, students in over a thousand classrooms are learning how to build and train their very own Artificial Intelligence.",
+      "Using visual blocks and simple Python code, kids are training AI models to recognize their pets, sort recycling, and even play simple video games.",
+      "Teachers say that showing kids how AI works makes it less like 'magic' and more like a tool. The next generation of engineers might build the smartest computers the world has ever seen!"
+    ],
+    "date": "February 2026",
+    "source": "Education Tech",
+    "color": "bg-mint/20",
+    "textColor": "text-mint-foreground"
+  },
+  {
+    "id": 4,
+    "title": "AI Helps Clean Up Ocean Plastic",
+    "preview": "A new AI-powered drone can fly over the ocean and spot plastic waste so boats can collect it faster.",
+    "full_article": [
+      "The ocean has a trash problem, but AI is here to help! A team of environmentalists has launched a fleet of autonomous flying drones over the Pacific Ocean.",
+      "These drones use a special kind of AI called Computer Vision. They are trained to instantly identify the difference between a natural piece of floating kelp and a plastic bottle.",
+      "When the drone spots a massive trash patch, it sends the exact GPS coordinates to a cleanup ship nearby. This helps ships scoop up the garbage significantly faster, keeping the oceans safe for fish and turtles!"
+    ],
+    "date": "March 2026",
+    "source": "Climate Savers",
+    "color": "bg-sunshine/20",
+    "textColor": "text-sunshine-foreground"
+  },
+  {
+    "id": 5,
+    "title": "New AI Tool Creates Music from Your Humming",
+    "preview": "Just hum a tune and this AI turns it into a full song! Musicians and kids are loving it.",
+    "full_article": [
+      "Have you ever had a great song stuck in your head but didn't know how to play the piano? A brand new app powered by Generative AI is solving that problem.",
+      "Users can simply hum a melody directly into their phone microphone. The AI then instantly transforms that humming into a full orchestra, a rock band, or an electronic dance track!",
+      "It works by recognizing the pitch and rhythm of your voice, and matching it to billions of musical patterns. It's making everyone feel like a famous composer!"
+    ],
+    "date": "April 2026",
+    "source": "Creative AI News",
+    "color": "bg-coral/20",
+    "textColor": "text-coral-foreground"
+  },
+  {
+    "id": 6,
+    "title": "Self-Driving Food Deliveries Are Here",
+    "preview": "Small, cooler-sized robots are driving on sidewalks to safely deliver hot pizzas right to your door.",
+    "full_article": [
+      "Next time you order dinner, a robot might bring it to you! In several cities, small six-wheeled robots are officially delivering groceries and pizzas completely on their own.",
+      "These robots use LiDAR lasers and Machine Learning to avoid hitting pedestrians, crossing the street only when the walk sign is green.",
+      "Customers simply unlock the robot with their phone when it arrives. It's safe, runs on electricity so it reduces pollution, and keeps your food perfectly warm!"
+    ],
+    "date": "April 2026",
+    "source": "Tech Town",
+    "color": "bg-lavender/20",
+    "textColor": "text-lavender-foreground"
+  },
+  {
+    "id": 7,
+    "title": "AI Learns to Predict Earthquakes",
+    "preview": "Scientists are using big data to guess where the ground might shake before it even happens.",
+    "full_article": [
+      "Earthquakes are incredibly dangerous because they happen without warning. But geologists are using Predictive AI to look deep underground.",
+      "By feeding a supercomputer hundreds of years of seismic data, the AI has started to notice incredibly tiny, invisible patterns in how the earth's crust moves globally right before a big shake.",
+      "While it can't predict earthquakes perfectly yet, scientists hope that in five years, the AI will be able to send an alert to people's phones minutes before the shaking starts, saving thousands of lives."
+    ],
+    "date": "March 2026",
+    "source": "Science Today",
+    "color": "bg-primary/20",
+    "textColor": "text-primary-foreground"
+  },
+  {
+    "id": 8,
+    "title": "Smart Shoes Tie Themselves Using AI",
+    "preview": "A new pair of sneakers senses when your foot goes in and perfectly zips up for an exact fit.",
+    "full_article": [
+      "No more tripping over unlaced shoes! A sports tech company has revealed a brand new sneaker that features a tiny AI sensor hidden in the sole.",
+      "When you slide your foot in, the shoe uses pressure sensors and machine learning to calculate the exact shape and size of your foot.",
+      "Tiny motors instantly pull the laces tight to provide the perfect amount of support. Whether you are running, walking, or playing basketball, the shoe adapts its tightness automatically!"
+    ],
+    "date": "February 2026",
+    "source": "Gadget World",
+    "color": "bg-secondary/20",
+    "textColor": "text-secondary-foreground"
+  },
+  {
+    "id": 9,
+    "title": "AI Helps Discover a Brand New Planet",
+    "preview": "Telescopes collect so much data that humans can't look at it all. An algorithm steps in to find hidden worlds.",
+    "full_article": [
+      "Astronomers have made a huge discovery: a new planet located 300 lightyears away! But a human didn't find it—an AI did.",
+      "The Kepler Space Telescope takes millions of pictures of stars. Finding a planet is like trying to spot a mosquito walking across a flashlight miles away.",
+      "The humans let an AI scan the massive pile of data. The AI noticed a tiny, tiny dimming in a star's light that happened every 42 days, proving a planet was blocking the view. The AI was given an honorary naming credit!"
+    ],
+    "date": "January 2026",
+    "source": "Space Explorer",
+    "color": "bg-mint/20",
+    "textColor": "text-mint-foreground"
+  },
+  {
+    "id": 10,
+    "title": "The World's First AI Video Game Designer",
+    "preview": "Instead of playing a game, you can now tell an AI what kind of game you want, and it builds it instantly.",
+    "full_article": [
+      "Game design used to take years. Now, an AI called 'Build-A-World' is changing everything. Kids can simply type 'I want a game where I play as a frog who has to jump over spicy tacos'.",
+      "In three minutes, the Generative AI writes the code, draws the pixel art for the frog, and creates a playable level with background music.",
+      "This amazing tool is turning kids from just 'players' into 'directors', letting anyone with an imagination become a game developer instantly."
+    ],
+    "date": "April 2026",
+    "source": "Play & Code",
+    "color": "bg-sunshine/20",
+    "textColor": "text-sunshine-foreground"
+  },
+  {
+    "id": 11,
+    "title": "AI Translates Whale Songs",
+    "preview": "Scientists are feeding underwater recordings into a supercomputer to finally understand what whales are saying.",
+    "full_article": [
+      "Sperm whales communicate by making loud, clicking sounds in the deep ocean. But for decades, humans had no idea what they meant.",
+      "A massive project is currently feeding millions of recorded whale clicks into an advanced Natural Language Processing AI—the same technology that translates human languages.",
+      "The AI has discovered that whales have unique 'alphabets' and even regional accents! While we can't talk to them yet, the AI is slowly building the world's first Human-to-Whale dictionary."
+    ],
+    "date": "March 2026",
+    "source": "Ocean Discoveries",
+    "color": "bg-coral/20",
+    "textColor": "text-coral-foreground"
+  },
+  {
+    "id": 12,
+    "title": "AI Tutors Help Kids Learn Math",
+    "preview": "Struggling with homework? A new AI tutor patiently guides students through hard math problems without giving the answer away.",
+    "full_article": [
+      "A clever new app is acting as a personalized 24/7 tutor for kids struggling with algebra. But don't expect it to do your homework for you!",
+      "The AI is specially designed with 'Ethical Tutoring'. Instead of just showing the final answer, it looks at your math steps and gently asks, 'Wait, did you remember to carry the one here?'",
+      "Students using the app have seen their test scores go up dramatically because the AI is incredibly patient and never judges them for making a mistake."
+    ],
+    "date": "February 2026",
+    "source": "School Today",
+    "color": "bg-lavender/20",
+    "textColor": "text-lavender-foreground"
+  },
+  {
+    "id": 13,
+    "title": "Robot Farmers Pick Strawberries",
+    "preview": "Farming is getting a high-tech upgrade! AI robots can now carefully pick perfectly ripe fruit without squishing it.",
+    "full_article": [
+      "Picking fragile fruits like strawberries is incredibly hard for robots because their metal hands tend to smash the fruit. But a new AI system is changing the farm.",
+      "The robot uses high-definition cameras to scan the plant. Its AI calculates exactly how red the strawberry is to see if it is ready.",
+      "Then, a soft silicon claw gently snaps the stem without ever squeezing the berry itself! This helps farmers harvest their massive fields significantly faster before the fruit goes bad."
+    ],
+    "date": "April 2026",
+    "source": "Future Farms",
+    "color": "bg-primary/20",
+    "textColor": "text-primary-foreground"
+  },
+  {
+    "id": 14,
+    "title": "Museums Use AI to Restore Old Paintings",
+    "preview": "Faded masterpieces from hundreds of years ago are being restored using digital computer brains.",
+    "full_article": [
+      "A famous painting in an Italian museum was so badly damaged by 400 years of sunlight that nobody could see the details anymore.",
+      "Art historians teamed up with AI engineers. They fed the AI thousands of completely vibrant paintings from the exact same time period.",
+      "The algorithm looked at the faded spots and perfectly 'guessed' what colors and brush strokes were supposed to be there. Now, museum visitors can look at a 4K digital screen next to the real painting to see exactly what it looked like the day it was painted!"
+    ],
+    "date": "March 2026",
+    "source": "Art & Tech",
+    "color": "bg-secondary/20",
+    "textColor": "text-secondary-foreground"
+  },
+  {
+    "id": 15,
+    "title": "Smart Forests Prevent Wildfires",
+    "preview": "Tiny AI sensors strapped to trees are acting like an early warning system against dangerous forest fires.",
+    "color": "bg-mint/20",
+    "textColor": "text-mint-foreground",
+    "full_article": [
+      "In California, defending against wildfires is a huge priority. But fires grow so fast that they are hard to stop. Enter the 'Smart Forest'.",
+      "Thousands of tiny, solar-powered 'electronic noses' are bolted to the trunks of trees safely across miles of woods. These sensors use AI to smell the air.",
+      "If the AI smells the specific chemical makeup of burning pine needles—even a tiny amount—it instantly beams a GPS signal to the fire department. They can put out the fire while it's still just the size of a campfire!"
+    ],
+    "date": "April 2026",
+    "source": "Nature Tech"
+  },
+  {
+    "id": 16,
+    "title": "AI Beats World Champion at Drone Racing",
+    "preview": "A self-flying drone flew through an obstacle course faster than the very best human pilot in the world.",
+    "color": "bg-sunshine/20",
+    "textColor": "text-sunshine-foreground",
+    "full_article": [
+      "Drone racing requires split-second reactions. Human pilots wear VR goggles and fly drones at 100 mph through tiny hoops. Humans are amazing at it—but an AI just proved it is faster.",
+      "An algorithm named 'Swift' learned to race by practicing millions of times in a digital simulator before being put into a real drone frame.",
+      "During a race against the world champion, the AI drone took totally wild, mind-bending turns at impossible angles, shaving an entire half-second off the world record! It shows that AI can push the limits of physics."
+    ],
+    "date": "February 2026",
+    "source": "Tech Sports"
+  },
+  {
+    "id": 17,
+    "title": "AI Reads 2000-Year-Old Charred Scrolls",
+    "preview": "Ancient scrolls burnt by a volcano were impossible to open. AI found a way to read them without unrolling them!",
+    "color": "bg-coral/20",
+    "textColor": "text-coral-foreground",
+    "full_article": [
+      "When Mount Vesuvius erupted thousands of years ago, a massive library of Roman scrolls was completely burnt into black, crispy lumps of ash. If humans try to unroll them, they crumble to dust.",
+      "Scientists used modern X-ray machines to scan the lumps in 3D. Then, they challenged programmers around the world to write an AI to analyze the millions of images.",
+      "An award-winning Computer Vision AI learned to spot microscopic bumps of dried ink inside the tightly rolled ash! For the first time in 2,000 years, humanity is reading lost philosophy books."
+    ],
+    "date": "January 2026",
+    "source": "History Today"
+  },
+  {
+    "id": 18,
+    "title": "Hologram Animals at the Zoo",
+    "preview": "A zoo in Japan uses AI-driven holograms to let kids interact with extinct dinosaurs and rare animals.",
+    "color": "bg-lavender/20",
+    "textColor": "text-lavender-foreground",
+    "full_article": [
+      "A modern zoo has launched a brand new exhibit with no cages and no glass. Instead, it relies entirely on incredibly high-tech projectors and Generative AI.",
+      "Kids can walk into a massive dark room and come face to face with a life-sized, glowing blue T-Rex hologram. The best part? The AI cameras track the kids' movements.",
+      "If a kid holds out an invisible piece of food, the T-Rex will react in real-time by sniffing and eating it! It's an amazing, harmless way to connect with the past."
+    ],
+    "date": "April 2026",
+    "source": "Futuretainment"
+  },
+  {
+    "id": 19,
+    "title": "Smart Backpack Reminds Kids of Homework",
+    "preview": "Never forget your math book again! The AI backpack scans your bag and checks your school schedule.",
+    "color": "bg-primary/20",
+    "textColor": "text-primary-foreground",
+    "full_article": [
+      "A new backpack aimed at middle schoolers comes with a tiny onboard AI computer and an internal scanner. It cross-references the student's digital class schedule with what's physically inside the bag.",
+      "If you have Science on Tuesdays, but the AI doesn't detect the RFID tag on your Science textbook, a red light on the zipper flashes and the bag gently vibrates as you pick it up.",
+      "It even checks the local weather forecast and flashes blue if it thinks you need to pack an umbrella. It's the ultimate organizational tool for busy kids!"
+    ],
+    "date": "March 2026",
+    "source": "Student Tech News"
+  },
+  {
+    "id": 20,
+    "title": "AI Fights Deepfakes on Social Media",
+    "preview": "With fake images getting better, new algorithms act like detectives to find the truth.",
+    "color": "bg-secondary/20",
+    "textColor": "text-secondary-foreground",
+    "full_article": [
+      "We live in a world where it's super easy to generate fake photos using AI. But tech companies are fighting back using... more AI!",
+      "A new 'Digital Detective' algorithm scans millions of uploads a second. It looks for weird digital glitches humans can't see, like impossible lighting or mismatched pixel noise.",
+      "When it spots a fake, it places a massive 'AI GENERATED' label right over the image. This helps protect users from believing false rumors online, proving that AI can be a great shield for the truth."
+    ],
+    "date": "April 2026",
+    "source": "Cyber Safe"
+  },
+  {
+    "id": 21,
+    "title": "The World's Largest AI Art Gallery Opens",
+    "preview": "A brand new museum dedicated totally to Code and Art has opened in Paris.",
+    "color": "bg-mint/20",
+    "textColor": "text-mint-foreground",
+    "full_article": [
+      "Museums usually have a strict 'No Touching' rule. But at the new Code&Canvas gallery in Paris, touching the art changes everything.",
+      "The walls are massive LED screens hooked up to a central Generative AI. When visitors wave their hands or speak to the walls, the AI instantly reacts, painting massive, swirling Van Gogh-style stars around their silhouettes.",
+      "The art is never the same twice. It's the first museum where the visitors and the computers team up to be the artists."
+    ],
+    "date": "March 2026",
+    "source": "Art & Travel"
+  },
+  {
+    "id": 22,
+    "title": "Robots Built to Clean Space Junk",
+    "preview": "Earth's orbit is filled with old broken satellites. AI is being sent to grab the garbage and toss it away.",
+    "color": "bg-sunshine/20",
+    "textColor": "text-sunshine-foreground",
+    "full_article": [
+      "There are thousands of pieces of 'space junk' floating around Earth. These old parts are dangerous because they travel incredibly fast in zero gravity and could hit working satellites.",
+      "A new space mission just launched a robotic 'Garbage Truck' into orbit. The robot uses AI to map the junk field, calculate complex zero-G physics, and match speeds with a piece of debris.",
+      "Once aligned, it shoots out a high-tech net to capture the junk, then safely drags it down so it burns up harmlessly harmless in the Earth's atmosphere."
+    ],
+    "date": "February 2026",
+    "source": "Astro News"
+  },
+  {
+    "id": 23,
+    "title": "AI Detects Crop Diseases on Phones",
+    "preview": "Farmers in rural areas can now know what is wrong with their crops just by taking a picture.",
+    "color": "bg-coral/20",
+    "textColor": "text-coral-foreground",
+    "full_article": [
+      "For small-scale farmers, a sick crop can mean a ruined harvest. But it's hard to afford an agricultural expert to visit. Now, there's an app for that!",
+      "A new AI tool runs directly on basic smartphones without needing the internet. A farmer simply points their camera at a yellowing leaf of corn.",
+      "The model instantly diagnoses the issue, whether it's a specific fungus, a bug, or lack of nitrogen in the soil, and gives the farmer cheap, effective advice on how to cure it. It's saving livelihoods across the globe!"
+    ],
+    "date": "January 2026",
+    "source": "Global Growth"
+  },
+  {
+    "id": 24,
+    "title": "AI Learns to Fold Perfect Origami",
+    "preview": "A robotic hand uses extremely precise calculations to fold complex paper cranes.",
+    "color": "bg-lavender/20",
+    "textColor": "text-lavender-foreground",
+    "full_article": [
+      "Robots are great at crushing cars, but terrible at doing gentle things. An AI research lab wanted to see if they could teach a robot the ancient art of Origami.",
+      "They designed a soft-touch robotic hand and an AI that maps out hundreds of precise 'fold pathways'. Paper is unpredictable and easily torn.",
+      "By using cameras to constantly monitor the paper tension, the AI gracefully folded a perfect paper crane in under three minutes without tearing the fragile sheet. This technology will eventually help robots handle extremely delicate surgeries."
+    ],
+    "date": "March 2026",
+    "source": "Science Tech"
+  },
+  {
+    "id": 25,
+    "title": "AI Writes the Missing Ending to a Beethoven Symphony",
+    "preview": "The legendary composer died before finishing his 10th Symphony. An algorithm stepped in to give it an ending.",
+    "color": "bg-primary/20",
+    "textColor": "text-primary-foreground",
+    "full_article": [
+      "Ludwig van Beethoven is one of the greatest musicians in history. But he left behind only a few scattered notes of his final 10th Symphony.",
+      "To honor his anniversary, scientists fed his entire life's work of sheet music into an AI designed specifically to analyze musical structure and emotion.",
+      "The AI 'guessed' how he would have finished it. When a full orchestra played the AI-generated ending in Germany, the audience was stunned. It sounded exactly like Beethoven, proving algorithms can understand musical soul."
+    ],
+    "date": "April 2026",
+    "source": "Music Monthly"
+  },
+  {
+    "id": 26,
+    "title": "Smart Traffic Lights End Gridlock",
+    "preview": "Sitting at a red light while no cars are coming is the worst! AI is upgrading our streetlights.",
+    "color": "bg-secondary/20",
+    "textColor": "text-secondary-foreground",
+    "full_article": [
+      "A pilot program in a major city has completely removed pre-timed traffic lights. Instead, every interaction is run dynamically by an AI network.",
+      "The system watches the roads using sensors. If a bus full of people is running late, the AI mathematically adjusts the entire city grid to keep the bus's lane green as long as possible.",
+      "It also makes sure ambulances are never stopped. Overall commute times have dropped by 30%, making drivers way happier and reducing massive amounts of car pollution!"
+    ],
+    "date": "February 2026",
+    "source": "City Planner"
+  },
+  {
+    "id": 27,
+    "title": "AI Teaches Sign Language",
+    "preview": "An app tracks hand movements to help users learn ASL perfectly.",
+    "color": "bg-mint/20",
+    "textColor": "text-mint-foreground",
+    "full_article": [
+      "Learning American Sign Language (ASL) usually requires a human teacher because books can't watch to see if you are doing the hand gestures correctly.",
+      "A new app changes all that by using the front-facing camera on a tablet! As you try to sign a word, the AI tracks 21 different points on your fingers and hands in real-time.",
+      "If you make the letter 'A' wrong, the app instantly highlights your thumb and shows you how to move it perfectly. It's an amazing breakthrough in accessible learning."
+    ],
+    "date": "March 2026",
+    "source": "Accessibility News"
+  },
+  {
+    "id": 28,
+    "title": "AI Detects Fake Smiles",
+    "preview": "A computer vision model gets so good at reading human faces, it can tell when you are truly happy.",
+    "color": "bg-sunshine/20",
+    "textColor": "text-sunshine-foreground",
+    "full_article": [
+      "Did you know that a 'real' smile uses entirely different face muscles than a 'fake' forced smile? Most humans can't tell the difference, but an AI can.",
+      "Psychologists trained a neural network by having it watch thousands of videos of people laughing naturally and posing awkwardly for photos.",
+      "The AI can instantly spot the micro-movements of the muscles around the eyes that only fire when a person is genuinely happy! This tech might be used in the future to help doctors measure patient stress levels."
+    ],
+    "date": "January 2026",
+    "source": "Human Tech"
+  },
+  {
+    "id": 29,
+    "title": "Supercomputers Predict the Weather Weeks Early",
+    "preview": "Planning a picnic? Deep learning replaces traditional weather guessing.",
+    "color": "bg-coral/20",
+    "textColor": "text-coral-foreground",
+    "full_article": [
+      "For decades, weather forecasts were famously unreliable because humans tried to model the atmosphere using basic math equations.",
+      "Today, meteorologists are using global AI systems that don't calculate wind speed—they look at massive historical patterns. The AI can look at the current temperature and instantly 'remember' similar conditions from five years ago.",
+      "The new AI model is so incredibly accurate that it can accurately predict rain and storms up to 14 days in advance, a massive upgrade from the old 3-day window!"
+    ],
+    "date": "April 2026",
+    "source": "Weather Watch"
+  },
+  {
+    "id": 30,
+    "title": "Robots Help Build Base on the Moon",
+    "preview": "Before astronauts arrive, autonomous robots will use 3D printing to build safe houses out of moon dust.",
+    "color": "bg-lavender/20",
+    "textColor": "text-lavender-foreground",
+    "full_article": [
+      "NASA's next massive project is establishing a permanent base on the moon! But launching bricks into space is way too heavy and expensive.",
+      "Instead, they are sending autonomous AI robots. These rovers will scoop up 'lunar regolith' (moon dust) and melt it using high-power lasers.",
+      "Acting like massive 3D Printers, the AI rovers will dynamically design and print massive domed houses perfectly suited for the terrain. By the time the human astronauts land, their high-tech homes will already be waiting for them."
+    ],
+    "date": "February 2026",
+    "source": "Space Explorer"
+  }
+]

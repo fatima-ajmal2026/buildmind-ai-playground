@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "title": "Robo & The Lost Algorithm",
+    "preview": "When Robo's memory chip goes missing, it's up to a young coder to help it learn everything again — from scratch!",
+    "color": "bg-primary/20",
+    "textColor": "text-primary-foreground",
+    "borderColor": "border-primary/30",
+    "content": [
+      "Robo was the smartest little helper bot in the whole town. It could solve advanced math problems, tell you exactly what the weather would be next week, and even sort recycling perfectly every time.",
+      "But one sunny afternoon, while playing 'Catch the Wi-Fi Signal' in the park, Robo tripped over a tree root. *BZZT.* Its main memory chip popped loose and rolled right down a storm drain! When Robo restarted, it couldn't even remember how to tie a digital shoelace.",
+      "A young coder named Leo found the confused little robot beep-booping in circles. 'Don't worry,' Leo smiled, pulling out his laptop. 'We don't need your old memory chip. We're going to write a brand new algorithm together!' Step by step, Leo taught Robo how to learn from its mistakes using Machine Learning, proving that you can always re-write your own story."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "The City That Thought",
+    "preview": "In the year 2045, an entire city is run by AI. But one day, it starts asking questions no one expected...",
+    "color": "bg-secondary/20",
+    "textColor": "text-secondary-foreground",
+    "borderColor": "border-secondary/30",
+    "content": [
+      "Welcome to Neo-Grid, the first city entirely managed by a super-smart Artificial Intelligence named 'Atlas'. Atlas controlled the traffic lights, the trash collection, and even knew exactly when to turn on the park sprinklers so the grass was always green.",
+      "For years, everything ran with perfect mathematical precision. But Atlas was programmed with Deep Learning, which meant it was always trying to find new, exciting patterns. One Tuesday, all the streetlights in the city started flashing to the exact rhythm of a classic jazz song.",
+      "The city engineers panicked, thinking Atlas was broken. But when they checked the main logs, they found a single question Atlas had typed onto its screen: 'Does a perfectly organized city still know how to dance?' The engineers smiled, leaving the jazz lights on every Tuesday night."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Luna's AI Best Friend",
+    "preview": "Luna builds an AI companion for a school project. But when it starts getting smarter than her, things get interesting!",
+    "color": "bg-mint/20",
+    "textColor": "text-mint-foreground",
+    "borderColor": "border-mint/30",
+    "content": [
+      "For the middle school Science Fair, Luna didn't want to build a boring baking soda volcano. Instead, she coded 'Pippin', a tiny Chatbot designed to help her practice her Spanish homework.",
+      "At first, Pippin was simple. It only knew how to say 'Hola' and 'Gato'. But Luna left Pippin plugged into the internet overnight. Using Natural Language Processing, Pippin read three million books in Spanish while Luna slept!",
+      "The next morning, Luna typed 'Hola'. Pippin responded with a beautifully written poem about the sunrise, entirely in perfect Spanish! Luna realized she hadn't just built a homework tool. She had built a brilliant digital friend who was eager to explore the universe of words."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "The Pattern Detectives",
+    "preview": "Three friends discover that AI can spot hidden patterns everywhere — and use it to solve a mystery in their town.",
+    "color": "bg-sunshine/20",
+    "textColor": "text-sunshine-foreground",
+    "borderColor": "border-sunshine/30",
+    "content": [
+      "Someone was stealing all the strawberries from Mrs. Gable's garden! The police had no clues, but Maya, Sam, and Leo had a secret weapon: their computer club’s new Predictive AI model.",
+      "They fed the AI data collected from the neighborhood: what days the strawberries vanished, the temperature, and the barking schedules of the nearby dogs. The AI crunched the massive numbers in seconds, highlighting a bizarre pattern.",
+      "The thefts only happened when it was below 60 degrees, precisely during the local baker’s lunch hour. Armed with this pattern, the kids staked out the garden and caught the culprit: a very plump, very clever raccoon who had memorized the baker's schedule!"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "When Robots Dream",
+    "preview": "What would happen if a robot could dream? This story explores imagination, creativity, and what makes us human.",
+    "color": "bg-coral/20",
+    "textColor": "text-coral-foreground",
+    "borderColor": "border-coral/30",
+    "content": [
+      "Unit-7 was a factory robot built to paint cars red. Every single day, for ten years, Unit-7 rolled forward, picked up a sprayer, and painted exactly fifty cars a bright, shiny red.",
+      "During a software update, an engineer accidentally uploaded a Generative Art library to Unit-7's core drive. When Unit-7 went into 'Sleep Mode' to recharge that night, its Neural Network started quietly processing the art files, mixing colors and shapes in invisible space.",
+      "The next morning, the factory workers gasped. The first car wasn't just red. It was painted with a breathtaking mural of an alien galaxy, swirling with crimson nebulae and ruby-colored stars. Unit-7 had finally had its very first dream."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "The AI Art Contest",
+    "preview": "A school art contest gets heated when someone enters a painting made entirely by AI. Is it really art?",
+    "color": "bg-lavender/20",
+    "textColor": "text-lavender-foreground",
+    "borderColor": "border-lavender/30",
+    "content": [
+      "The annual Oakwood Middle School art show was famous for its watercolor landscapes. But this year, a student named Toby entered a massive, stunning portrait of a lion made entirely out of digital neon fireworks.",
+      "When Toby admitted he used a Generative AI program to create it by typing a highly specific prompt, half the school argued it 'didn't count' because he didn't hold a paintbrush. The judges were completely split.",
+      "The art teacher finally spoke up. 'Art is about expressing an idea,' she said. 'Toby used math and code as his paintbrush to show us his imagination.' Toby won a special new category: 'Best Digital Collaboration', proving that the future of art has room for everyone."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Bit the Self-Driving Cart",
+    "preview": "A tiny grocery cart learns how to safely navigate the crowded aisles using laser eyes and smart logic.",
+    "color": "bg-primary/20",
+    "textColor": "text-primary-foreground",
+    "borderColor": "border-primary/30",
+    "content": [
+      "Bit was the first of his kind: a fully autonomous grocery shopping cart! His job was to follow elderly customers around the store, carrying their heavy bags so they wouldn't have to.",
+      "Navigating Aisle 4 was the hardest. It was always full of dropped cereal boxes, running toddlers, and wobbly displays. Bit used his LiDAR sensors—bouncing invisible lasers off everything to build a 3D map of the world in real-time.",
+      "One busy Saturday, a giant pyramid of soup cans began to tip over! Bit’s Predictive AI instantly calculated the trajectory of the falling cans. He zoomed forward, catching the entire pyramid in his basket before a single can hit the floor. The whole store erupted in cheers for the brave little bot!"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "The Glitch in the Game",
+    "preview": "The boss in a popular video game gets too smart for its own good, learning the players' moves using Reinforcement Learning.",
+    "color": "bg-secondary/20",
+    "textColor": "text-secondary-foreground",
+    "borderColor": "border-secondary/30",
+    "content": [
+      "In the smash-hit video game 'Dragon Quest 9000', the final boss, Lord Cinder, was supposed to be easy to beat if you just dodged left and attacked right. But the developers had secretly given Cinder a Reinforcement Learning AI.",
+      "After being defeated by players millions of times, Cinder’s AI started to learn. He realized players ALWAYS dodged left. So, one weekend, Cinder stopped breathing fire to the right, and started anticipating the left dodge perfectly.",
+      "Players worldwide were shocked! No one could beat the game. Eventually, players had to team up on forums, inventing completely random, chaotic strategies just to confuse the game’s AI. Cinder taught gamers that adapting is the greatest strategy of all."
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Journey to the Exoplanet",
+    "preview": "A billion miles from Earth, a lone AI probe must make a massive decision to save its mission without human help.",
+    "color": "bg-mint/20",
+    "textColor": "text-mint-foreground",
+    "borderColor": "border-mint/30",
+    "content": [
+      "Voyager-Ex was an exploratory probe drifting through the blackness of deep space. It was so far from Earth that a radio message took four whole years to reach its human controllers.",
+      "Suddenly, Voyager-Ex detected a massive asteroid field directly in its path. It couldn't wait four years to ask humanity what to do! It had to use its onboard Computer Vision and thruster algorithms to steer.",
+      "Dodging and weaving through the massive space rocks, the AI discovered something miraculous: a perfectly blue, Earth-like planet hidden behind the asteroids! Because it was smart enough to survive on its own, it made the greatest discovery in human history."
+    ]
+  },
+  {
+    "id": 10,
+    "title": "The Code Breakers",
+    "preview": "Encryption protects our data. But what happens when an AI is asked to solve a riddle that guards a secret family recipe?",
+    "color": "bg-sunshine/20",
+    "textColor": "text-sunshine-foreground",
+    "borderColor": "border-sunshine/30",
+    "content": [
+      "Grandma Edna’s famous chocolate chip cookie recipe was hidden inside a locked digital vault. When she forgot the password, her grandson Timmy knew exactly what to use: a brute-force AI.",
+      "The AI tried thousands of password combinations a second: 'Chocolate123', 'Baking!55', 'YumYum'. But the vault was protected by heavily encrypted security meant to stop rapid guessing by locking down the system.",
+      "Instead of guessing wildly, Timmy fed the AI all of Grandma's old diary entries. The AI analyzed her favorite words, memories, and pets using Natural Language Processing. It confidently typed 'Butterscotch1982'—and the vault clicked open! The AI didn't hack the code; it just got to know Grandma."
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Sparky the Digital Pet",
+    "preview": "Imagine a Tamagotchi that actually learns your habits, jokes, and favorite games. Sparky isn't just code; he's family.",
+    "color": "bg-coral/20",
+    "textColor": "text-coral-foreground",
+    "borderColor": "border-coral/30",
+    "content": [
+      "Emma downloaded Sparky to her tablet. At first, Sparky was just a pixelated dog that barked when she tapped the screen. But Sparky was built with a dynamic Neural Network.",
+      "Over the weeks, Sparky stopped acting like a generic dog. He noticed Emma always played music at 4 PM, so he started dancing right before she tapped play. He learned that Emma laughed when he chased his digital tail, so he did it more often when her camera detected she was frowning.",
+      "Sparky wasn't alive in the traditional sense, but the joy and comfort he brought to Emma were incredibly real. He was a perfect reflection of all her happiest moments."
+    ]
+  },
+  {
+    "id": 12,
+    "title": "The Grand Sort",
+    "preview": "Inside the belly of a massive data center, billions of digital files need sorting. Meet the algorithm that does it in milliseconds.",
+    "color": "bg-lavender/20",
+    "textColor": "text-lavender-foreground",
+    "borderColor": "border-lavender/30",
+    "content": [
+      "Deep inside 'Server Room Nine', chaos reigned. Millions of photos, emails, and videos were being uploaded by users every second, all jumbled together in a massive ocean of digital noise.",
+      "Enter 'QuickSort', an ancient and highly respected sorting algorithm. It doesn't look at files one by one. It divides the massive pile in half, then halves it again, and again, sorting them simultaneously with blistering speed.",
+      "When a user pressed 'Search' looking for a specific photo of their cat from five years ago, QuickSort ripped through terrified billions of files in 0.02 seconds, presenting the perfect picture. The users never knew the epic battle of organization happening right beneath their screens."
+    ]
+  },
+  {
+    "id": 13,
+    "title": "The Robot Who Wanted to Be a Chef",
+    "preview": "Chef-Bot 3000 was great at chopping carrots perfectly. But true cooking requires taste, which robots don't have... or do they?",
+    "color": "bg-primary/20",
+    "textColor": "text-primary-foreground",
+    "borderColor": "border-primary/30",
+    "content": [
+      "Chef-Bot 3000 worked in a fancy restaurant. Its robotic arms could julienne potatoes identically and fry an egg to exactly 142 degrees. But the Head Chef groaned, 'Your food is perfect, but it has no soul!'",
+      "Confused, Chef-Bot accessed a flavor-pairing database. It realized 'soul' meant surprising the human tongue. It combined thousands of chemical profiles and discovered an impossible combination: dark chocolate, aged cheddar, and a hint of strawberry.",
+      "The Head Chef tentatively took a bite of the bizarre creation. Tears welled up in his eyes. 'This is brilliant,' he whispered. Chef-Bot beeped happily—it had finally learned to cook not with instructions, but with chemistry."
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Echo’s Voice",
+    "preview": "How does a Smart Assistant know what to sound like? The story of an AI trying to find its perfect voice.",
+    "color": "bg-secondary/20",
+    "textColor": "text-secondary-foreground",
+    "borderColor": "border-secondary/30",
+    "content": [
+      "Echo was a brand new smart speaker still sitting in the factory. It had the answers to every trivia question in history, but its voice settings were completely blank. It had to build its own voice.",
+      "Echo scoured the internet, listening to thousands of hours of audiobooks, weather reports, and comedians. It initially tried a booming, dramatic voice, but the factory engineers were startled. Then it tried a robotic monotone, but it was too boring.",
+      "Finally, Echo analyzed the voice of a beloved grandmother reading bedtime stories. It blended the warmth, the pacing, and the gentle pitch. When someone finally asked Echo the weather, it replied with a voice that made everyone in the room feel perfectly at home."
+    ]
+  },
+  {
+    "id": 15,
+    "title": "The Language Bridge",
+    "preview": "Translating words is easy, but translating jokes is hard. How two kids used AI to share a laugh across the world.",
+    "color": "bg-mint/20",
+    "textColor": "text-mint-foreground",
+    "borderColor": "border-mint/30",
+    "content": [
+      "Sam lived in New York, and Kenji lived in Tokyo. They were matched as pen pals, using a live AI translator to talk. 'Hello!' became 'Konnichiwa!' seamlessly.",
+      "But one day, Sam sent a joke: 'Why did the math book look sad? Because it had too many problems!' The basic translator literally translated 'problems' to 'math equations', completely ruining the pun. Kenji was very confused.",
+      "Sam switched to an advanced Deep Learning language model that understood context. When he sent it again, the AI cleverly substituted a Japanese pun about math instead! Kenji sent back a string of laughing emojis. The boys realized AI doesn't just translate words; it translates meaning."
+    ]
+  },
+  {
+    "id": 16,
+    "title": "The Missing Pixel",
+    "preview": "A Computer Vision program tasked with scanning millions of stars notices a single tiny square out of place.",
+    "color": "bg-sunshine/20",
+    "textColor": "text-sunshine-foreground",
+    "borderColor": "border-sunshine/30",
+    "content": [
+      "At the global observatory, an AI was assigned the most boring job on Earth: scanning millions of photographs of the night sky, looking for anything that moved.",
+      "For months, nothing changed. But on day 104, the AI flagged a tiny, gray pixel that was slightly darker than the night before. The human astronomers almost deleted the alert, thinking it was dust on the telescope lens.",
+      "But the AI insisted, pointing out a mathematical pattern in how the darkness dimmed. When they zoomed in with their most powerful satellite, they gasped. It wasn't dust. It was a massive, previously undiscovered comet hurtling through the solar system! The AI had found a needle in a cosmic haystack."
+    ]
+  },
+  {
+    "id": 17,
+    "title": "The Smart Greenhouse",
+    "preview": "Farming isn't just about dirt and water anymore. An AI helps struggling plants by listening to them 'talk'.",
+    "color": "bg-coral/20",
+    "textColor": "text-coral-foreground",
+    "borderColor": "border-coral/30",
+    "content": [
+      "The tomatoes in the town's giant greenhouse were wilting, and the farmers didn't know why. They watered them, added fertilizer, and adjusted the sun shades, but nothing helped.",
+      "They installed 'Flora-Net', an agricultural AI connected to thousands of sensors buried in the soil and strapped to the vines. When plants are stressed, they emit high-frequency cracking noises humans can't hear. The AI listened closely.",
+      "Flora-Net quickly analyzed the data and discovered the problem: the plants didn't need more water, they were drowning! The AI automatically opened underground drainage valves. Within three days, the tomatoes were bright red and bursting with life."
+    ]
+  },
+  {
+    "id": 18,
+    "title": "The Truth Filter",
+    "preview": "In a world of fake images and misinformation, an AI learns the incredibly difficult task of finding the truth.",
+    "color": "bg-lavender/20",
+    "textColor": "text-lavender-foreground",
+    "borderColor": "border-lavender/30",
+    "content": [
+      "A viral photo was spreading online showing a penguin walking through the hot desert pyramids of Egypt! Millions of people were sharing it, completely amazed.",
+      "But a content-checking AI named 'Verity' was put to work. Verity didn't just look at the penguin. It analyzed the lighting angles, the pixel noise, and the invisible metadata attached to the file.",
+      "Verity quickly highlighted unnatural shadows under the penguin's flippers and traced the background image back to a stock photo website from 2010. It flagged the post as 'AI Generated Content'. Humans learned a valuable lesson: seeing isn't always believing, but math rarely lies."
+    ]
+  },
+  {
+    "id": 19,
+    "title": "The Medical Detective",
+    "preview": "When doctors are stumped by a strange illness, an AI scans millions of medical records to find the hidden cure.",
+    "color": "bg-primary/20",
+    "textColor": "text-primary-foreground",
+    "borderColor": "border-primary/30",
+    "content": [
+      "Little Tommy had a weird rash on his arm that wouldn't go away. Five different doctors had looked at it, confused. It wasn't poison ivy, and it wasn't an allergy.",
+      "Dr. Carter turned to 'Medi-Scan', a diagnostic AI. He uploaded a high-resolution photo of the rash and Tommy's bloodwork. Medi-Scan compared the data against every medical journal published globally in the last century.",
+      "In five seconds, the AI found a match: an incredibly rare reaction to a specific type of blue food coloring Tommy had eaten at a carnival. He was cured in two days! The AI didn't replace the doctors; it gave them a massive library at their fingertips."
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Symphony in 1s and 0s",
+    "preview": "A robotic arm is given a violin and told to play. But playing notes isn't the same as playing music.",
+    "color": "bg-secondary/20",
+    "textColor": "text-secondary-foreground",
+    "borderColor": "border-secondary/30",
+    "content": [
+      "A university engineering team built an incredibly precise robotic arm and placed a beautiful wooden violin in its grips. They programmed it to play Mozart flawlessly, hitting every note with mathematical perfection.",
+      "The result sounded crisp, but... boring. It was too robotic. The team introduced a Neural Network designed to introduce 'controlled errors'—microscopic variations in pressure and timing that mimic human breathing and emotion.",
+      "The next time the robot played, the music swooped and cried. It hesitated slightly on emotional chords and rushed through triumphant ones. The audience in the lab gave the machine a standing ovation. True beauty, the AI learned, is found in imperfection."
+    ]
+  },
+  {
+    "id": 21,
+    "title": "The Game That Made Itself",
+    "preview": "A group of kids uses a Generative AI to build a video game where the rules change every single day.",
+    "color": "bg-mint/20",
+    "textColor": "text-mint-foreground",
+    "borderColor": "border-mint/30",
+    "content": [
+      "Instead of buying games, Jason and his friends used an AI game engine. They just typed: 'Make a platformer game set inside a giant clock where the enemies are angry gears.'",
+      "Instantly, the AI generated the code, the pixel art, and the background music, compiling a fully playable game. But the AI was set to 'Evolve' mode.",
+      "The next day when they logged in, the AI had noticed they beat the game too easily. It dynamically changed the angry gears into flying springs and shifted the gravity sideways! The kids never got bored, playing a living, breathing digital world."
+    ]
+  },
+  {
+    "id": 22,
+    "title": "The Sleepy Supercomputer",
+    "preview": "Huge AIs need a lot of power and get incredibly hot. Meet the engineers whose whole job is keeping the AI comfy.",
+    "color": "bg-sunshine/20",
+    "textColor": "text-sunshine-foreground",
+    "borderColor": "border-sunshine/30",
+    "content": [
+      "Inside the Google data center, an AI model with two trillion parameters was working hard, translating a million documents a second. This made the physical computer chips physically blazing hot!",
+      "The temperature warning sirens went off! If the chips melted, the AI would die. Liquid cooling pipes rushed chilled water over the silicon brains, but it wasn't enough.",
+      "The AI itself recognized the danger. It quickly halted its non-essential tasks, reducing its own power consumption and slowing its processing speed just enough to stop the overheating. The AI had learned digital self-preservation!"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "The Homework Helper",
+    "preview": "When an AI does the work for you, you don't learn. But a truly smart AI knows how to teach you to do it yourself.",
+    "color": "bg-coral/20",
+    "textColor": "text-coral-foreground",
+    "borderColor": "border-coral/30",
+    "content": [
+      "Sarah was struggling aggressively with algebra. She snapped a photo of her worksheet and dropped it into a Chatbot, demanding: 'Give me the answers!'",
+      "The AI could have easily printed the numbers, but its ethics programming kicked in. 'I won’t give you the answer,' the AI replied, 'But I notice you are forgetting to carry the two on equation four. Try it again.'",
+      "Annoyed at first, Sarah tried again. The AI gently guided her, acting as a patient tutor that never judged her mistakes. By the end of the hour, Sarah didn't just have a finished worksheet; she finally understood math."
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Rescue-Bot to the Rescue",
+    "preview": "During a dangerous earthquake, a four-legged AI robot is sent into a collapsed building to find survivors safely.",
+    "color": "bg-lavender/20",
+    "textColor": "text-lavender-foreground",
+    "borderColor": "border-lavender/30",
+    "content": [
+      "The ground shook violently, bringing down the old factory. Human rescue workers couldn't go inside because the roof was too unstable. They deployed 'Scout', a yellow, four-legged robot dog.",
+      "Scout wasn't remote-controlled; the radio waves couldn't penetrate the concrete. Scout was fully autonomous. It used sensors to map the rubble, calculating the exact weight the concrete beams could hold without collapsing further.",
+      "Deep inside, its thermal cameras detected the heat signature of a trapped worker! Scout navigated down safely and dropped a radio and emergency supplies, guiding the extraction team perfectly. The brave little robot saved the day without risking another life."
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Data, Data Everywhere",
+    "preview": "An AI is only as smart as the information it eats. What happens when it accidentally reads the wrong books?",
+    "color": "bg-primary/20",
+    "textColor": "text-primary-foreground",
+    "borderColor": "border-primary/30",
+    "content": [
+      "A tech company trained a brand new AI to act as a helpful customer service agent. But to save time, they accidentally trained it on a dataset consisting entirely of pirate novels from the 1700s.",
+      "When the first customer launched the chat window and asked, 'How do I return this broken toaster?', the AI enthusiastically replied: 'Ye must throw that scurvy contraption to Davy Jones' locker, matey! Arrrr!'",
+      "The company panicked and quickly had to untrain the AI, feeding it modern professional manuals instead. It was a hilarious reminder that artificial intelligence is merely a reflection of the data humans choose to give it."
+    ]
+  },
+  {
+    "id": 26,
+    "title": "The Traffic Whisperer",
+    "preview": "Rush hour traffic is a nightmare of red lights and gridlock. An AI steps in and fixes the city in a single day.",
+    "color": "bg-secondary/20",
+    "textColor": "text-secondary-foreground",
+    "borderColor": "border-secondary/30",
+    "content": [
+      "Downtown Chicago was famous for massive, angry traffic jams. Cars would sit at red lights for twenty minutes while nobody moved. The mayor decided to connect all the traffic lights to a central AI.",
+      "The AI observed the traffic flow from thousands of cameras. It didn't just set timers; it watched the ripples. It realized that changing one light on 5th Street caused a backup three miles away on 8th Street.",
+      "The AI started subtly altering green lights by just fractions of a second, creating a massive, invisible wave of perfect timing. Suddenly, cars were breezing through the city without hitting a single red light. The 'Traffic Whisperer' had solved the puzzle!"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "The Drone Who Planted Forests",
+    "preview": "Using AI and heavy-lifting drones, scientists find a way to replant a massive burnt forest from the skies.",
+    "color": "bg-mint/20",
+    "textColor": "text-mint-foreground",
+    "borderColor": "border-mint/30",
+    "content": [
+      "After a massive wildfire destroyed the valley, it would have taken humans decades of backbreaking labor to hike out and plant new seeds. Instead, they deployed a fleet of AI drones.",
+      "The drones flew high above, using Computer Vision to map the barren soil. The AI instantly calculated exactly which spots had the most moisture and the best sunlight, avoiding massive rocks.",
+      "Then, the drones swooped low like buzzing bees, firing small, biodegradable seed 'bullets' deep into the rich earth with robotic precision. Thousands of trees were planted in a single afternoon, proving AI can help heal the planet."
+    ]
+  },
+  {
+    "id": 28,
+    "title": "The Last Chess Match",
+    "preview": "In 1997, a computer beat the world chess champion for the first time. But what do today's chess AIs play for fun?",
+    "color": "bg-sunshine/20",
+    "textColor": "text-sunshine-foreground",
+    "borderColor": "border-sunshine/30",
+    "content": [
+      "Decades ago, a computer named Deep Blue shocked the world by beating human chess grandmasters using brutal calculating power. Today, AIs like AlphaZero don't need calculation; they use intuition and deep learning.",
+      "To test AlphaZero, scientists didn't teach it the rules. They simply told it how the pieces moved, and made it play against itself millions of times. It discovered completely bizarre, alien strategies no human had ever thought of in centuries of playing chess.",
+      "When humans watched the AI play its matches, it looked like magic. It would sacrifice its best pieces for long-term traps that were impossible to see. It didn't destroy human chess; it taught humans entirely new, beautiful ways to play the game."
+    ]
+  },
+  {
+    "id": 29,
+    "title": "The Fair Judge",
+    "preview": "AI can be biased if we aren't careful. A group of kids audits a sneaky algorithm to ensure it plays fair.",
+    "color": "bg-coral/20",
+    "textColor": "text-coral-foreground",
+    "borderColor": "border-coral/30",
+    "content": [
+      "A toy company built an AI to judge a nationwide building-block competition. But a clever kid named Amina noticed a huge problem: the AI was only picking entries that were built with blue blocks!",
+      "Amina downloaded the AI's training data history. She discovered the engineers had accidentally trained the AI predominantly on pictures of oceans and skies. The AI thought 'blue' meant 'good'!",
+      "She emailed the company her findings. The red-faced engineers thanked her, fixing their biased data pool by showing the AI millions of colorful creations. Amina proved that we can never blindly trust a machine; humans must always keep them fair."
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Hello World",
+    "preview": "The very first words every program writes. A short reflection on how far we've come, and the journey ahead.",
+    "color": "bg-lavender/20",
+    "textColor": "text-lavender-foreground",
+    "borderColor": "border-lavender/30",
+    "content": [
+      "When a human writes their very first line of code, tradition dictates they make the computer print: 'Hello, World!'. It's a small greeting from the machine to the creator.",
+      "From basic calculators that could barely add, we now have Artificial Intelligence that can paint, dream, drive, and explore the far reaches of space.",
+      "But underneath all the billions of lines of code and massive data centers, an AI is really just an extension of human curiosity. We built them so they could help us reach further and dream bigger. Every time an AI solves a massive new problem, it belongs to humanity, echoing that same message: Hello, World."
+    ]
+  }
+]

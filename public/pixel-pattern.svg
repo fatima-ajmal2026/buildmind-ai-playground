@@ -1,0 +1,41 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" stroke="rgba(255, 255, 255, 0.25)" stroke-width="4" stroke-linecap="square" stroke-linejoin="miter" shape-rendering="crispEdges">
+    <!-- Floppy -->
+    <rect x="25" y="25" width="50" height="50" />
+    <rect x="35" y="25" width="30" height="15" />
+    <rect x="30" y="50" width="40" height="25" />
+    <path d="M 45 55 L 45 65" />
+    <path d="M 25 35 L 15 25" />
+    
+    <!-- Bomb -->
+    <rect x="135" y="30" width="30" height="30" />
+    <rect x="130" y="35" width="40" height="20" />
+    <path d="M 150 30 L 150 20 L 160 15" />
+    <path d="M 165 10 L 168 7" />
+    
+    <!-- Glasses -->
+    <rect x="25" y="135" width="25" height="15" />
+    <rect x="55" y="135" width="25" height="15" />
+    <path d="M 50 142 L 55 142" />
+    <path d="M 25 140 L 15 130" />
+    <path d="M 80 140 L 90 130" />
+
+    <!-- Planet -->
+    <rect x="135" y="135" width="30" height="30" />
+    <path d="M 125 155 L 175 145" stroke-width="3" />
+    <path d="M 140 140 L 145 140" stroke-width="3" />
+
+    <!-- File -->
+    <rect x="85" y="80" width="30" height="40" />
+    <path d="M 90 90 L 105 90" />
+    <path d="M 90 100 L 110 100" />
+    <path d="M 90 110 L 105 110" />
+
+    <!-- Random pixels to make it feel like the image -->
+    <rect x="180" y="90" width="4" height="4" fill="rgba(255, 255, 255, 0.25)" stroke="none" />
+    <rect x="188" y="100" width="4" height="4" fill="rgba(255, 255, 255, 0.25)" stroke="none" />
+    <rect x="15" y="90" width="4" height="4" fill="rgba(255, 255, 255, 0.25)" stroke="none" />
+    <rect x="110" y="30" width="4" height="4" fill="rgba(255, 255, 255, 0.25)" stroke="none" />
+    <rect x="80" y="180" width="4" height="4" fill="rgba(255, 255, 255, 0.25)" stroke="none" />
+  </g>
+</svg>

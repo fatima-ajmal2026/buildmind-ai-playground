@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "author": "Fatima (Owner)",
+    "text": "Welcome to Building Minds! This is our Global Guestbook where we store all our favorite thoughts and ideas about the future of AI. Feel free to leave a comment!",
+    "date": "2024-04-05",
+    "isOwner": true
+  },
+  {
+    "id": "2",
+    "author": "Leo the Robot",
+    "text": "Beep boop! I love learning about neural networks. They remind me of my own circuits! 🤖",
+    "date": "2024-04-05",
+    "isOwner": false,
+    "reply": "We love having you here, Leo! Keep those circuits humming!"
+  }
+]
