@@ -54,6 +54,56 @@ const videoList = [
   { id: "kBXQZMmiA4s", title: "Encryption and Security" }
 ];
 
+const VideoCard = ({ id, title }: { id: string, title: string }) => {
+  const [isLoaded, setIsLoaded] = useState(false);
+
+  return (
+    <div className="bg-card rounded-3xl border border-border overflow-hidden hover:shadow-2xl transition-all duration-500 hover:border-primary/50 group flex flex-col h-full transform hover:-translate-y-1">
+      <div 
+        className="aspect-video bg-slate-900 relative m-2 border-2 border-slate-800 rounded-2xl overflow-hidden cursor-pointer group"
+        onClick={() => setIsLoaded(true)}
+      >
+        {!isLoaded ? (
+          <>
+            {/* YouTube High-Res Thumbnail */}
+            <img 
+              src={`https://img.youtube.com/vi/${id}/mqdefault.jpg`} 
+              alt={title}
+              className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110 opacity-70 group-hover:opacity-100"
+              loading="lazy"
+            />
+            {/* Custom Play Button Overlay */}
+            <div className="absolute inset-0 flex items-center justify-center">
+              <div className="w-16 h-16 bg-primary/90 text-primary-foreground rounded-full flex items-center justify-center shadow-2xl transform transition-all duration-300 group-hover:scale-125 group-hover:bg-primary group-active:scale-95">
+                <svg className="w-8 h-8 fill-current ml-1" viewBox="0 0 24 24">
+                  <path d="M8 5v14l11-7z" />
+                </svg>
+              </div>
+            </div>
+            {/* Duration / HD Badge (Purely Aesthetic) */}
+            <div className="absolute bottom-3 right-3 bg-black/80 px-2 py-0.5 rounded text-[10px] font-mono text-white/90 backdrop-blur-sm border border-white/10 uppercase tracking-tighter">
+              4K / HD
+            </div>
+          </>
+        ) : (
+          <iframe 
+            className="w-full h-full relative z-10 animate-in zoom-in-95 duration-300"
+            src={`https://www.youtube.com/embed/${id}?autoplay=1&rel=0`}
+            title={title}
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowFullScreen
+          ></iframe>
+        )}
+      </div>
+      <div className="p-5 pt-2 flex-grow">
+        <h4 className="font-heading font-bold text-lg leading-tight group-hover:text-primary transition-colors line-clamp-2">
+          {title}
+        </h4>
+      </div>
+    </div>
+  );
+};
+
 const Videos = () => {
   const [searchQuery, setSearchQuery] = useState("");
 
@@ -127,20 +177,7 @@ const Videos = () => {
             {moreVideos.length > 0 ? (
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 {moreVideos.map((v) => (
-                  <div key={v.id} className="bg-card rounded-3xl border border-border overflow-hidden hover:shadow-lg transition-all duration-300 hover:border-primary/50 group flex flex-col">
-                    <div className="aspect-video bg-black relative m-2 border-2 border-background rounded-2xl overflow-hidden">
-                      <iframe 
-                        className="w-full h-full relative z-10"
-                        src={`https://www.youtube.com/embed/${v.id}?rel=0`}
-                        title={v.title}
-                        allow="encrypted-media; picture-in-picture" 
-                        allowFullScreen
-                      ></iframe>
-                    </div>
-                    <div className="p-4 pt-2">
-                      <h4 className="font-heading font-bold text-lg leading-tight group-hover:text-primary transition-colors">{v.title}</h4>
-                    </div>
-                  </div>
+                  <VideoCard key={v.id} id={v.id} title={v.title} />
                 ))}
               </div>
             ) : (
