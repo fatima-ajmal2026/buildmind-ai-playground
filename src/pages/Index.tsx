@@ -144,54 +144,9 @@ const Index = () => {
           </div>
 
           <div className="flex flex-col items-center shrink-0">
-            <h1 className="text-4xl sm:text-6xl md:text-8xl font-mono font-bold tracking-tighter text-foreground mb-4 px-2">
+            <h1 className="text-4xl sm:text-6xl md:text-8xl font-mono font-bold tracking-tighter text-foreground mb-4 px-2 text-center">
               Building Minds
             </h1>
-
-            {/* Live Indicator Pillar */}
-            <Dialog>
-              <DialogTrigger asChild>
-                <button className="group flex items-center gap-3 px-6 py-2 bg-white/50 backdrop-blur-sm border-2 border-primary/20 rounded-full hover:bg-white hover:border-primary/40 transition-all cursor-pointer animate-in fade-in slide-in-from-bottom-4 duration-1000">
-                  <div className="relative flex items-center justify-center h-3 w-3">
-                    <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
-                    <span className="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
-                  </div>
-                  <span className="text-xs sm:text-sm md:text-base font-mono font-bold text-emerald-700 flex items-center gap-2">
-                    <span className="opacity-60">LIVE:</span> {liveCount.toLocaleString()} MINDS BUILDING NOW
-                  </span>
-                  <Globe size={16} className="text-emerald-600 group-hover:rotate-12 transition-transform" />
-                </button>
-              </DialogTrigger>
-              <DialogContent className="sm:max-w-md rounded-[3rem] border-4 border-emerald-100 bg-emerald-50/95 backdrop-blur-xl">
-                 <DialogHeader className="mb-4">
-                    <DialogTitle className="text-3xl font-heading font-bold text-center text-emerald-900 flex items-center justify-center gap-3">
-                       <Users className="text-emerald-500" /> Global Community
-                    </DialogTitle>
-                 </DialogHeader>
-                 <div className="max-h-[60vh] overflow-y-auto px-4 space-y-3 custom-scrollbar">
-                    {breakdown.map((c, i) => (
-                      <div key={i} className="flex items-center justify-between p-4 bg-white/70 rounded-2xl border-2 border-emerald-50 shadow-sm hover:border-emerald-200 transition-all group">
-                         <div className="flex items-center gap-4">
-                            <span className="text-2xl">{c.flag.startsWith("https") ? <img src={c.flag} className="w-8 rounded-sm shadow-sm" /> : c.flag}</span>
-                            <span className="text-lg font-body font-bold text-slate-800">{c.name}</span>
-                            {userCountry && c.name === userCountry.name && (
-                              <span className="text-[10px] bg-emerald-600 text-white px-2 py-0.5 rounded-full font-mono">YOU</span>
-                            )}
-                         </div>
-                         <div className="flex items-center gap-2">
-                            <span className="text-lg font-mono font-bold text-emerald-700">{c.count.toLocaleString()}</span>
-                            <span className="text-xs text-muted-foreground font-mono">Live</span>
-                         </div>
-                      </div>
-                    ))}
-                 </div>
-                 <div className="mt-8 text-center bg-white/40 p-4 rounded-3xl border border-white/50">
-                    <p className="text-xs font-mono text-emerald-800/60 uppercase tracking-tighter">
-                       Powered by Daily Global Traffic Metrics
-                    </p>
-                 </div>
-              </DialogContent>
-            </Dialog>
           </div>
 
           {/* Right Description */}
